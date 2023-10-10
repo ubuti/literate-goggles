@@ -1,4 +1,4 @@
-## Tweet Classification with Bert-language model
+# Tweet Classification with Bert-language model
 
 In the notebook there are 2 versions of a Bert Implementation to classify Twitter Tweets. The content of the data evolves around the pandemic, hence the name Corona-Dataset.
 
